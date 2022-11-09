@@ -1,0 +1,33 @@
+{
+  "name": "logocum-grafik",
+  "version": "1.0.0",
+  "description": "Logocum Grafik Sunucusunun Moderasyon Botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js"
+  },
+
+"repository": {
+    "type": "git",
+    "url": "https://github.com/ArviSlayer/V14-Slashli-Moderasyon-Sistemi2.git"
+  },
+
+  "author": "ArviS#0011",
+  "license": "ISC",
+"bugs": {
+    "url": "https://github.com/ArviSlayer/V14-Slashli-Moderasyon-Sistemi2/issues"
+  },
+
+  "homepage": "https://github.com/ArviSlayer/V14-Slashli-Moderasyon-Sistemi2#readme",
+  "dependencies": {
+    "@discordjs/builders": "^1.1.0",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.2.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.5.4",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.20"
+  }
+}

@@ -5,7 +5,7 @@ https://discord.gg/muxun4evYP
 2 Hatayıda Çözüp Botu Başlatabilirsiniz
 
 
-#İLETİŞİM
+# İLETİŞİM
 > Discord: ArviS#0011
 
 > İnstagram: @arvis_here
